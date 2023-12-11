@@ -1,6 +1,6 @@
 # gitclass1211
 1
-2 modified by test1
+2 modified by test2
 3
 
 3
